@@ -1,1 +1,1 @@
-mongodb-win32-x86_64-2008plus-ssl-3.6.23-signed.msi filter=lfs diff=lfs merge=lfs -text
+mysql-5.7.10-winx64.zip filter=lfs diff=lfs merge=lfs -text
